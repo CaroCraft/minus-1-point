@@ -12,7 +12,7 @@ Used object oriented programming
 
 The heart was shown when the player lost a life in this example.
 
-https://youtu.be/aDQHHFWwtgg?si=yStghKeneFvrroRh 
+https://youtu.be/Cln9X9dA9_E?si=hhtEg9j_qAL9hJrV
 
 # How to use 
 
